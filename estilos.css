@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #970202;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -55,7 +55,7 @@ h1{
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgb(84, 215, 14);
 }
 
 .slide .info{
